@@ -1,6 +1,6 @@
 {
   "name": "podoliak2020",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "demonstrayionStudy",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,8 @@
     "smetanka": "1.0.2",
     "morvunka228": "1.0.3",
     "ryslannobarabano": "1.0.1",
-    "ryslikbybysik20": "1.0.3"
+    "ryslikbybysik20": "1.0.3",
+    "podoliak2004": "1.0.3"
     },
   "author": "",
   "license": "ISC",
